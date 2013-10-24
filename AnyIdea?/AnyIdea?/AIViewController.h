@@ -1,6 +1,6 @@
 //
 //  AIViewController.h
-//  Any Idea?
+//  AnyIdea?
 //
 //  Created by Serdar Senol on 10/24/13.
 //  Copyright (c) 2013 Serdar Senol. All rights reserved.

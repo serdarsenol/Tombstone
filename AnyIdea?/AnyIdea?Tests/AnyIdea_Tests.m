@@ -1,6 +1,6 @@
 //
-//  Any_Idea_Tests.m
-//  Any Idea?Tests
+//  AnyIdea_Tests.m
+//  AnyIdea?Tests
 //
 //  Created by Serdar Senol on 10/24/13.
 //  Copyright (c) 2013 Serdar Senol. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Any_Idea_Tests : XCTestCase
+@interface AnyIdea_Tests : XCTestCase
 
 @end
 
-@implementation Any_Idea_Tests
+@implementation AnyIdea_Tests
 
 - (void)setUp
 {
