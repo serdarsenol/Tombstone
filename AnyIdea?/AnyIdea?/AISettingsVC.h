@@ -1,5 +1,5 @@
 //
-//  AIAppDelegate.h
+//  AISettingsVC.h
 //  AnyIdea?
 //
 //  Created by Serdar Senol on 10/19/13.
@@ -7,10 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "config.h"
 
-@interface AIAppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface AISettingsVC : UIViewController
 
 @end
