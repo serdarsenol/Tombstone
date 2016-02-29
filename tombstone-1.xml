@@ -1,0 +1,71 @@
+<ms247>
+    <serverStatus>live</serverStatus>
+    <droidLink>market://details?id=com.e247.yousee</droidLink>
+    <iosLink>583859770</iosLink>
+    <advertizingCaption>
+        <default>New app available</default>
+        <en>New app available</en>
+        <da>Ny YouSee Musik app</da>
+        <de>Deutch</de>
+    </advertizingCaption>
+    <advertizingMessage>
+        <default>A new and improved app is available.</default>
+        <en>A new and improved App is available.</en>
+        <da>En ny og forbedret udgave af app'en er tilgængelig.</da>
+        <de>Deutch</de>
+    </advertizingMessage>
+    <advertizingOkButton>
+        <default>Download now</default>
+        <en>Download now</en>
+        <da>Hent nu</da>
+        <de>Deutch</de>
+    </advertizingOkButton>
+    <advertizingCancelButton>
+        <default>Maybe later</default>
+        <en>Maybe later</en>
+        <da>Senere</da>
+        <de>Deutch</de>
+    </advertizingCancelButton>
+    <shuttingDownCaption>
+        <default>Please change soon</default>
+        <en>Please change soon</en>
+        <da>Venligst skift til vores nye app.</da>
+        <de>Deutch</de>
+    </shuttingDownCaption>
+    <shuttingDownMessage>
+        <default>This app is no longer supported. Please download the new app</default>
+        <en>This app is no longer supported. Please download the new app</en>
+        <da>Denne app bliver snart deaktiveret. Hent venligst vores nye app</da>
+        <de>Deutch</de>
+    </shuttingDownMessage>
+    <shuttingDownOkButton>
+        <default>OK, download the new app</default>
+        <en>OK, download the new app</en>
+        <da>OK, hent den nye app</da>
+        <de>Deutch</de>
+    </shuttingDownOkButton>
+    <shuttingDownCancelButton>
+        <default>Maybe later</default>
+        <en>Maybe later</en>
+        <da>Senere</da>
+        <de>Deutch</de>
+    </shuttingDownCancelButton>
+    <deprecatedCaption>
+        <default>The app is no longer active</default>
+        <en>The app is no longer active</en>
+        <da>App'en er ikke længere aktiv.</da>
+        <de>Deutch</de>
+    </deprecatedCaption>
+    <deprecatedMessage>
+        <default>This app is no longer active. Please download the new app and enjoy your favorite music</default>
+        <en>This app is no longer active. Please download the new app and enjoy your favorite music.</en>
+        <da>Denne app er ikke længere aktiv. Hent vores nye app og nyd al din musik.</da>
+        <de>Deutch</de>
+    </deprecatedMessage>
+    <deprecatedOkButton>
+        <default>Download now</default>
+        <en>Download now</en>
+        <da>Hent nu</da>
+        <de>Deutch</de>
+    </deprecatedOkButton>
+</ms247>
